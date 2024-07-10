@@ -93,7 +93,6 @@ export async function deleteInvoice(id: string) {
       }
   }
 
-
 export type State = {
   errors?: {
     customerId?: string[];
